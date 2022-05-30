@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: 'Satisfy', cursive;
+}
+.body {
+  height: 100vh;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  color: #6b6191;
+  padding-top: 100px;
+}
+.img {
+  padding: 50px 0;
+  width: 50%;
+  height: 50%;
+}
+.text {
+  font-size: 20px;
+  color: white;
+  padding: 20px;
+}
+.buttonyes {
+  font-size: 20px;
+  font-weight: bold;
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #e9cfd5;
+  color: #e8a5a8;
+}
+.buttonno {
+  font-size: 20px;
+  font-weight: bold;
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #e8a5a8;
+  color: #e9cfd5;
+}
+.magic {
+  font-size: 20px;
+  font-weight: bold;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: #efebb8;
+  color: #726742;
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
+.yescolor {
+  background-color: #eda7c4;
+}
+
+.nocolor {
+  background-color: #8980b2;
+}
+.magiccolor {
+  background-color: #27dbf3;
+}
+.background {
+  background-color: #e9d6e1;
+}
